@@ -17,6 +17,8 @@ The system allows the bank to manage customers waiting in line and serve them in
 - Classes and Objects
 - Menu-driven programming
 
+## Future scope 
+- take the task and then predict the time its goiong to take 
 ## How to Run
 Compile:
 g++ main.cpp -o bank
